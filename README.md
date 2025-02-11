@@ -13,6 +13,8 @@ O desafio foi criar um design que refletisse a emoção e energia do universo da
 - Figma para criação do protótipo de alta fidelidade.
 
 ## Como Visualizar 🏍️
-Você pode visualizar o protótpo diretamente aqui.
+Você pode visualizar o protótpo diretamente pelo link abaixo:
+
+> https://www.figma.com/design/qVSb7UOpC7b9K51SNPPuQA/ExpoMoto?m=auto&t=kDKrMiy5cPXZnXT2-6
 
  
